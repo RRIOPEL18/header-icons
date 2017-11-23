@@ -5,5 +5,13 @@ html {
 }
 
 h1 {
-  2rem;
+  textsize: 2rem;
+}
+
+ul {
+  textsize: 1.125rem
+}
+
+img {
+  background-color: #a63f38
 }
