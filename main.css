@@ -6,13 +6,15 @@ html {
 
 h1 {
   font-size: 2rem;
-  margin: .7rem
+  margin: .7rem;
 }
 
 ul {
-  font-size: 1.125rem
+  font-size: 1.125rem;
 }
 
 img {
-  background-color: #a63f38
+  background-color: #a63f38;
+  margin: .3rem;
+  width: 40px;
 }
