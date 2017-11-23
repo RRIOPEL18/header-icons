@@ -1,15 +1,16 @@
 html {
   background-color: #d05c2e;
-  font-family: merriweather;
+  font-family: "merriweather";
   line-height: 1.5;
 }
 
 h1 {
-  textsize: 2rem;
+  font-size: 2rem;
+  margin: .7rem
 }
 
 ul {
-  textsize: 1.125rem
+  font-size: 1.125rem
 }
 
 img {
