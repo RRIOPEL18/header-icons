@@ -1,11 +1,11 @@
 html {
+  background-color: #fff;
   line-height: 1.5;
 }
 
 h1 {
   font-size: 2rem;
   font-family: Merriweather, serif;
-  margin: .7rem;
   text-align: center;
 }
 
@@ -38,4 +38,5 @@ a {
 
 body {
     background-color: #d05c2e;
+    margin: 0;
 }
