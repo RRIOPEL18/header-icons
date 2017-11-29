@@ -1,11 +1,11 @@
 html {
   background-color: #d05c2e;
-  font-family: 'Merriweather', serif;
   line-height: 1.5;
 }
 
 h1 {
   font-size: 2rem;
+  font-family: Merriweather, serif;
   margin: .7rem;
 }
 
