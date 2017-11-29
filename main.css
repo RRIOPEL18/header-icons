@@ -1,5 +1,4 @@
 html {
-  background-color: #d05c2e;
   line-height: 1.5;
 }
 
@@ -35,4 +34,8 @@ a {
 .right {
   float: right;
   max-width: 40px;
+}
+
+body {
+    background-color: #d05c2e;
 }
