@@ -28,6 +28,8 @@ li {
   box-sizing: border-box;
   font-size: 1.125rem;
   margin: 0;
+  float: left;
+  background-color: #d05c2e;
 }
 
 a {
