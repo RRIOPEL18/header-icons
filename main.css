@@ -10,8 +10,8 @@ h1 {
 }
 
 ul {
-  font-size: 1.125rem;
   margin: .4rem;
+  padding: 0;
 }
 
 img {
@@ -26,6 +26,8 @@ li {
   display: inline-block;
   width: 33.3333%;
   box-sizing: border-box;
+  font-size: 1.125rem;
+  margin: 0;
 }
 
 a {
