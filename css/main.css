@@ -10,7 +10,6 @@ h1 {
 }
 
 ul {
-  margin: .4rem;
   padding: 0;
 }
 
@@ -39,6 +38,14 @@ li {
 li:nth-child(2) {
   border-right: none;
   border-left: none;
+}
+
+.nav:hover {
+  background-color: #a63f38;
+}
+
+li:hover {
+  background-color: #a63f38;
 }
 
 a {
