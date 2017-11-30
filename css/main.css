@@ -4,8 +4,8 @@ html {
 }
 
 h1 {
-  font-size: 2rem;
   font-family: Merriweather, serif;
+  font-size: 2rem;
   text-align: center;
 }
 
@@ -32,6 +32,13 @@ li {
   background-color: #d05c2e;
   padding: .5em;
   font-size: 1.125rem;
+  text-align: center;
+  border: 1px solid #a63f38;
+}
+
+li:nth-child(2) {
+  border-right: none;
+  border-left: none;
 }
 
 a {
